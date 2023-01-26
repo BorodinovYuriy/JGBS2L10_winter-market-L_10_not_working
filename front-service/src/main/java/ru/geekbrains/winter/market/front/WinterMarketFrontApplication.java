@@ -8,4 +8,5 @@ public class WinterMarketFrontApplication {
     public static void main(String[] args) {
         SpringApplication.run(WinterMarketFrontApplication.class, args);
     }
+
 }
